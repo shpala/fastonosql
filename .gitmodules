@@ -3,4 +3,5 @@
 	url = https://github.com/fastogt/cmake.git
 [submodule "build/pybuild_utils"]
 	path = build/pybuild_utils
-	url = https://github.com/fastogt/pybuild_utils.git
+	url = https://github.com/shpala/pybuild_utils.git
+	branch = msys2_win
